@@ -18,13 +18,14 @@
 
 - 👨‍💻 I love to code & solve problems.
 
-- 👉 Visit my **[Portfolio](https://parag-portfolio.netlify.app/)**
+- 👉 Visit my **[Portfolio](thakurankit6767.github.io/portfio/)**
 
-- 👉 See my Experience **[Resume](https://drive.google.com/file/d/1L6vMMS2YjsVFPsnDvMndnnnC5tSayr7U/view?usp=sharing)**
+- 👉 See my Experience **[Resume](https://)**
 
-- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/parag-patil-43b19a140/)**
+- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/ 
+ankit-thakur-209283230/)**
 
-- 👨‍💻 All of my projects are available on **[Github](https://github.com/paragpatil187?tab=repositories)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/thakurankit6767?tab=repositories)**
 
 - 💬 Ask me about **Web Developement, JavaScript, Html and CSS**
 
