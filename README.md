@@ -1,61 +1,56 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Thakur</h1>
-<h3 align="center"> Passionate To Develop  </h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Thakur </h1>
+<h3 align="center"> Passionate full stack web developer, Learning MERN Stack at Masai School, Bengaluru, Karnataka</h3>
 <p align="center">
-<p align="left"> 
-<img src="" alt="watching_count" />
- </p>
+
  <p align="center">
-<img src="https://img.shields.io/badge/Age-22-blue" />
-  <img src="https://img.shields.io/badge/Focus-we -blue" />
-  <img src="https://img.shields.io/badge/Lives-Mumbai%20Maharashtra -blue" />
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Web%20Development -blue" />
+  <img src="https://img.shields.io/badge/Lives- Navi Mumbai%20Maharashtra -blue" />
   <img src="https://img.shields.io/badge/Languages-Marathi%20,%20Hindi%20%26%20English-blue" />
 </p>
 <hr>
 
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-- 🌱 I’m currently learning **Web**
-
-- 🔭 I’m currently working on **Muzio Player** clone
+- 🌱 I’m currently learning **Full Stack Web Developement**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
-- 👨‍💻 I love to code, solve problems, blogging and Hacking!
+- 👨‍💻 I love to code & solve problems.
 
-- 👉 Visit my **[Portfolio](https://bhaveshppatil.github.io/)**
+- 👉 Visit my **[Portfolio](https://parag-portfolio.netlify.app/)**
 
-- 👉 See my Experience **[Resume](https://www.canva.com/design/DAEvb4omGiA/3yxzCsAI7fjYEkRU4OzCGA/view?utm_content=DAEvb4omGiA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)**
+- 👉 See my Experience **[Resume](https://drive.google.com/file/d/1L6vMMS2YjsVFPsnDvMndnnnC5tSayr7U/view?usp=sharing)**
 
-- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/bhavesh-patil-78b346204/)**
+- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/parag-patil-43b19a140/)**
 
-- 👨‍💻 All of my projects are available on **[Github](https://github.com/bhaveshppatil?tab=repositories)**
+- 👨‍💻 All of my projects are available on **[Github](https://github.com/paragpatil187?tab=repositories)**
 
-- 💬 Ask me about **Android Developement, Java, Kotlin and Security**
+- 💬 Ask me about **Web Developement, JavaScript, Html and CSS**
 
  
  ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/bhavesh-patil-78b346204/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/bhavesh-patil-78b346204/" height="50" width="50" /></a>
-<a href="https://medium.com/@bhaveshppatil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/medium.png" alt="https://medium.com/@bhaveshppatil" height="50" width="50" /></a>
-<a href="mailto:bhavesh.patil0325@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:bhavesh.patil0325@gmail.com" height="50" width="50" /></a>
-<a href="https://twitter.com/bhavesh__patil" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/bhavesh__patil" height="50" width=50" /></a>
-<a href="https://www.instagram.com/bhavesh_.patil/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/instagram.png" alt="bhavesh_.patil" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ 
+ankit-thakur-209283230
+/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/ 
+ankit-thakur-209283230
+/" height="50" width="50" /></a>
+<a href="mailto:thakurankit6767@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:paragpatil187@gmail.com" height="50" width="50" /></a>
+<!-- <a href="https://twitter.com/paragpatil187" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/paragpatil187" height="50" width=50" /></a> -->
 </p>
 
  ### 🛠 &nbsp;Languages and Tools
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/android-os.png" alt="android" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/figma.png" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/java.png" alt="java" width="40" height="40"/> </a> <a href="https://www.parrotsec.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Parrot_Logo.png" alt="Parrot" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/Sqlite-square.png" alt="sqlite" width="40" height="40"/> </a> <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/kotlin.png" alt="kotlin" width="40" height="40"/>  </a> <a href="https://www.postman.com/" target="_blank"> <img src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Tech%20stack/postman.png" alt="postman" width="40" height="40"/> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.parrotsec.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>  </a><a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
  
- <p align = "center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=bhaveshppatil&no-bg=true&no-frame=false&theme=light&column=8"" alt="AnkitThakur" />
- </p>
+ 
                                                                                                                                                  
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ankitthakur&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=ankitthakur&theme=dark&hide_border=true" width = 400 />
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ankitthakur&theme=dark&hide_border=true&layout=compact" width = 400 />
+  <img src = "https://github-readme-stats.ubuy-clone-project-unit-2.vercel.app&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://bewakoofclone.vercel.app&theme=dark&hide_border=true" width = 400 />
+<!--  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paragpatil187&theme=dark&hide_border=true&layout=compact" width = 400 /> -->
 </p>
  
  <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
