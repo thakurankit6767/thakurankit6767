@@ -1,9 +1,10 @@
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Thakur </h1>
 <h3 align="center"> Passionate full stack web developer, Learning MERN Stack at Masai School, Bengaluru, Karnataka</h3>
 <p align="center">
 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-26-blue" />
+<img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development -blue" />
   <img src="https://img.shields.io/badge/Lives- Navi Mumbai%20Maharashtra -blue" />
   <img src="https://img.shields.io/badge/Languages-Marathi%20,%20Hindi%20%26%20English-blue" />
@@ -18,12 +19,11 @@
 
 - 👨‍💻 I love to code & solve problems.
 
-- 👉 Visit my **[Portfolio](thakurankit6767.github.io/portfio/)**
+- 👉 Visit my **[Portfolio](thakurankit6767.github.io/portfolio/)**
 
-- 👉 See my Experience **[Resume](https://)**
+- 👉 See my Experience **[Resume](https://drive.google.com/file/d/19kIWXE3eaGQj-tcFnQdLMq7GSlvC6lk3/view)**
 
-- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/ 
-ankit-thakur-209283230/)**
+- 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/ankit-thakur-209283230/)**
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/thakurankit6767?tab=repositories)**
 
@@ -32,13 +32,9 @@ ankit-thakur-209283230/)**
  
  ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ 
-ankit-thakur-209283230
-/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/ 
-ankit-thakur-209283230
-/" height="50" width="50" /></a>
-<a href="mailto:thakurankit6767@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:paragpatil187@gmail.com" height="50" width="50" /></a>
-<!-- <a href="https://twitter.com/paragpatil187" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/paragpatil187" height="50" width=50" /></a> -->
+<a href="https://www.linkedin.com/in/ankit-thakur-209283230/" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png" alt="https://www.linkedin.com/in/ankit-thakur-209283230/" height="50" width="50" /></a>
+<a href="mailto:thakurankt6767@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:thakurankt6767@gmail.com" height="50" width="50" /></a>
+<a href="https://twitter.com/thakurankit1212" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/thakurankit1212" height="50" width=50" /></a>
 </p>
 
  ### 🛠 &nbsp;Languages and Tools
@@ -49,9 +45,7 @@ ankit-thakur-209283230
  
                                                                                                                                                  
 <p align = "center">
-  <img src = "https://github-readme-stats.ubuy-clone-project-unit-2.vercel.app&show_icons=true&theme=dark" width = 400 />
-  <img src = "https://bewakoofclone.vercel.app&theme=dark&hide_border=true" width = 400 />
-<!--  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=paragpatil187&theme=dark&hide_border=true&layout=compact" width = 400 /> -->
+  <img src = "https://github-readme-stats.vercel.app/api?username=thakurankit6767&show_icons=true&theme=dark" width = 400 />
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=thakurankit6767&theme=dark&hide_border=true" width = 400 />
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thakurankit6767&theme=dark&hide_border=true&layout=compact" width = 400 />
 </p>
- 
- <h4 align="center">Show some ❤️ by starring some of the repositories!</h4>
