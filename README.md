@@ -19,7 +19,7 @@
 
 - 👨‍💻 I love to code & solve problems.
 
-- 👉 Visit my **[Portfolio](thakurankit6767.github.io/portfolio/)**
+- 👉 Visit my **[Portfolio](http://thakurankit6767.github.io/portfolio/)**
 
 - 👉 See my Experience **[Resume](https://drive.google.com/file/d/19kIWXE3eaGQj-tcFnQdLMq7GSlvC6lk3/view)**
 
