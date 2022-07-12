@@ -21,7 +21,7 @@
 
 - 👉 Visit my **[Portfolio](http://thakurankit6767.github.io/portfolio/)**
 
-- 👉 See my Experience **[Resume](https://drive.google.com/drive/u/1/folders/14MZwG2PIqB0GWwX5Xz32X0GTDAhRqvo5)**
+- 👉 See my Experience **[Resume](https://drive.google.com/file/d/1OmGtX_faSNwSJKu2ss5SRJ-eEH-qbCzx/view?usp=sharing)**
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/ankit-thakur-209283230/)**
 
