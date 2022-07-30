@@ -4,6 +4,7 @@
 <p align="center">
 
  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bhaveshppatil&color=blue" alt="watching_count" />
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development -blue" />
   <img src="https://img.shields.io/badge/Lives- Navi Mumbai%20Maharashtra -blue" />
