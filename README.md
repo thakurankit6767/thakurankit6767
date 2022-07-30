@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ankit Thakur </h1>
-<h3 align="center"> Passionate full stack web developer, Learning MERN Stack at Masai School, Bengaluru, Karnataka</h3>
+<h3 align="center"> Passionate To Develop Full Stack Web Application</h3>
 <p align="center">
 
  <p align="center">
