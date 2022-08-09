@@ -14,7 +14,7 @@
 
   <img width="50%" align="right" alt="Github" src="https://user-images.githubusercontent.com/60788180/131893851-b24002a3-72be-40cf-a179-7cbdff89b087.gif" />
  
-- 🌱 I’m currently work as a **Full Stack Web Developement**
+- 🌱 I’m currently working as a **Full Stack Web Developer**
 
 - 🤝 I’m looking for help with **Competitive Programming**
 
