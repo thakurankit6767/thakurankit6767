@@ -20,7 +20,7 @@
 
 - 👨‍💻 I love to code & solve problems.
 
-- 👉 Visit my **[Portfolio]([http://thakurankit6767.github.io/portfolio/](https://portfolio-website-zeta-drab.vercel.app/))**
+- 👉 Visit my **[Portfolio]((https://portfolio-website-zeta-drab.vercel.app/))**
 
 - 👉 See my Experience **[Resume](https://drive.google.com/file/d/1OmGtX_faSNwSJKu2ss5SRJ-eEH-qbCzx/view?usp=sharing)**
 
