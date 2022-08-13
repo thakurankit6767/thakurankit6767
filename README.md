@@ -22,7 +22,7 @@
 
 - 👉 Visit my **[Portfolio](https://portfolio-website-zeta-drab.vercel.app/)**
 
-- 👉 See my Experience **[Resume](https://drive.google.com/file/d/1OmGtX_faSNwSJKu2ss5SRJ-eEH-qbCzx/view?usp=sharing)**
+- 👉 See my Experience **[Resume](https://drive.google.com/file/d/1cQHG1b9Znp9bozjr_FrPh4Dr5AAsga71/view?usp=sharing)**
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/ankit-thakur-209283230/)**
 
