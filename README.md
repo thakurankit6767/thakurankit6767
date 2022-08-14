@@ -34,8 +34,8 @@
  ### 🤝🏻 &nbsp;Connect with Me
 <p align="left">
 <a href="https://www.linkedin.com/in/ankit-thakur-209283230/" target="blank"><img align="center" src="https://github.com/thakurankit6767/My-Data/blob/main/icons/icons8-linkedin-500.svg" alt="https://www.linkedin.com/in/ankit-thakur-209283230/" height="50" width="50" /></a>
-<a href="mailto:thakurankt6767@gmail.com" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/gmail.png" alt="mailto:thakurankt6767@gmail.com" height="50" width="50" /></a>
-<a href="https://twitter.com/thakurankit1212" target="blank"><img align="center" src="https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/twitter.png" alt="https://twitter.com/thakurankit1212" height="50" width=50" /></a>
+<a href="mailto:thakurankt6767@gmail.com" target="blank"><img align="center" src="https://github.com/thakurankit6767/My-Data/blob/main/icons/icons8-gmail-logo-500.svg" alt="mailto:thakurankt6767@gmail.com" height="50" width="50" /></a>
+<a href="https://twitter.com/thakurankit1212" target="blank"><img align="center" src="https://github.com/thakurankit6767/My-Data/blob/main/icons/icons8-twitter-squared-50.png" alt="https://twitter.com/thakurankit1212" height="50" width=50" /></a>
 </p>
 <!--  https://github.com/bhaveshppatil/bhaveshppatil/blob/main/Social%20Icons/linkedin.png -->
 
