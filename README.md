@@ -74,7 +74,7 @@
 
 
 
- ### ⚙️ <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub Analytics
+ ### ⚙️  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub Analytics
  
  
                                                                                                                                                  
