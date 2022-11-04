@@ -55,7 +55,7 @@
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="MySQL"  src="https://www.svgrepo.com/show/354099/mysql.svg" /> -->
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Git"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" />
-  <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" /> 
+<!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" />  -->
   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Bootstrap" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> -->
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="C++" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />  -->
@@ -74,7 +74,7 @@
 
 
 
- ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️  GitHub Analytics
+ ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⚙️  GitHub Analytics
  
  
                                                                                                                                                  
