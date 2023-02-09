@@ -28,7 +28,7 @@
 
 - 👨‍💻 All of my projects are available on **[Github](https://github.com/thakurankit6767?tab=repositories)**
 
-- 💬 Ask me about **Web Developement, JavaScript, Html and CSS**
+- 💬 Ask me about **Web Developement, React, NodeJS, JavaScript, Html and CSS**
 
  
  ### 🤝🏻 &nbsp;Connect with Me
