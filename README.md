@@ -68,8 +68,8 @@
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postgresql" src="https://www.svgrepo.com/show/354200/postgresql.svg" />  -->
 <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /> 
 <!--   <img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />  -->
-<img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Tailwind CSS" src="[https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg](https://raw.githubusercontent.com/thakurankit6767/Images-WebApp/refs/heads/main/tailwind%20logo.png)" />
-<img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="[https://pbs.twimg.com/profile_images/1290672565690695681/0G4bie6b_400x400.jpg](https://raw.githubusercontent.com/thakurankit6767/Images-WebApp/refs/heads/main/typescript%20logo.png)" /> 
+<img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Tailwind CSS" src="https://raw.githubusercontent.com/thakurankit6767/Images-WebApp/refs/heads/main/tailwind%20logo.png" />
+<img align="left" height="50px" width="43.5px" style="padding-right:10px;" alt="Typescript" src="https://raw.githubusercontent.com/thakurankit6767/Images-WebApp/refs/heads/main/typescript%20logo.png" /> 
 </p>
 
 
